@@ -1,5 +1,6 @@
 import Link from "next/link";
-import WeatherComponent from "./components/weatherComponent";
+import WeatherComponent from "./components/WeatherComponent";
+
 
 export default function Home() {
   return (
